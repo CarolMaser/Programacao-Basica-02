@@ -14,8 +14,4 @@
         echo "<br><br>O valor a ser pago será de R$" . round($nvalor, 2) . "!";
         echo "<br><br>Volte sempre!";
     }
-
-    
-    
-
 ?>
